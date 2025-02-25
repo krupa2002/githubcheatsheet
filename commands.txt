@@ -3,4 +3,9 @@ cd - Change Directory
 git init - Initialize Git
 git add - Add files to staging
 git commit - Save changes
+git status - Check the status of your working directory
+git log - View commit history
+git branch - List all branches
+git checkout - Switch between branches
+git merge - Merge branches
 

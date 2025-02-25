@@ -1,0 +1,6 @@
+mkdir - Make Directory
+cd - Change Directory
+git init - Initialize Git
+git add - Add files to staging
+git commit - Save changes
+

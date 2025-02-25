@@ -1,0 +1,2 @@
+git branch -d feature-commands
+git push origin --delete feature-commands
